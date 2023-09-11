@@ -1,0 +1,3 @@
+pratyush Auto 50.00
+pratyush Metro 10.00
+pratyush Bike_Fuel 125.00

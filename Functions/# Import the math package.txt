@@ -1,0 +1,20 @@
+# Import the math package
+import math
+
+# Use the sqrt function from the math package
+result = math.sqrt(16)
+print(result)
+
+# Import the datetime package
+import datetime
+
+# Use the datetime function to get the current date and time
+now = datetime.datetime.now()
+print(now)
+
+# Import the entire module from a package
+from package_name import *
+
+# Use a function from the imported module
+result = function_name()
+print(result)
